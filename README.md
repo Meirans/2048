@@ -12,8 +12,8 @@
 
 ## Izmantotās tehnoloģijas
 - C++
-- Css
-- SFML library
+- REPL.IT
+- VSC
 
 ## -
 
